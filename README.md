@@ -1,5 +1,5 @@
 
-Deployed On Versal : weather-web-app-i9vf-b665p0ku6-vaibhav-jagtaps-projects.vercel.app
+Deployed On Versal : https://weather-web-app-eosin.vercel.app/
 
 # Weathery: Get weather insights
 
