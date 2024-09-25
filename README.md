@@ -1,6 +1,11 @@
 # Weathery: Get weather insights
 
-### 1. Introduction
+Three Links
+weather-web-eui2jw0sd-vaibhav-jagtaps-projects.vercel.app
+https://weather-web-eui2jw0sd-vaibhav-jagtaps-projects.vercel.app/
+https://weather-web-app-eosin.vercel.app/
+
+### 1. Introduction 
 
 **Weathery** is a Next.js app for geting the weather insights. This app comes with eye catching yet simple and mobile friendly ui.
 
